@@ -1,0 +1,1 @@
+# nuxt-eslint-config-unknown-jest-sandbox
